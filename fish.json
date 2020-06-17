@@ -93,9 +93,9 @@
                 "font": "HelveticaNeue",
                 "size": "12"
               },
-              "text": "View ",
+              "text": "View Fish",
               "href": {
-                "url": "https://m.naruko.com.tw/index.phpFish",
+                "url": "https://m.naruko.com.tw/index.php",
                 "view": "Web"
               }
             }
